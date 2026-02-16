@@ -45,7 +45,12 @@ export const getPosts = () => {
 };
 
 export const getPostBySlug = async (slug) => {
-  const postFilePath = path.join(POSTS_PATH, `${slug}.mdx`);
+  // Try .mdx first, then .md
+  let postFilePath = path.join(POSTS_PATH, `${slug}.mdx`);
+  if (!fs.existsSync(postFilePath)) {
+    postFilePath = path.join(POSTS_PATH, `${slug}.md`);
+  }
+
   const source = fs.readFileSync(postFilePath);
 
   const { content, data } = matter(source);
@@ -64,7 +69,7 @@ export const getPostBySlug = async (slug) => {
 
 export const getNextPostBySlug = (slug) => {
   const posts = getPosts();
-  const currentFileName = `${slug}.mdx`;
+  const currentFileName = posts.find((post) => post.filePath.replace(/\.mdx?$/, '') === slug)?.filePath;
   const currentPost = posts.find((post) => post.filePath === currentFileName);
   const currentPostIndex = posts.indexOf(currentPost);
 
@@ -82,7 +87,7 @@ export const getNextPostBySlug = (slug) => {
 
 export const getPreviousPostBySlug = (slug) => {
   const posts = getPosts();
-  const currentFileName = `${slug}.mdx`;
+  const currentFileName = posts.find((post) => post.filePath.replace(/\.mdx?$/, '') === slug)?.filePath;
   const currentPost = posts.find((post) => post.filePath === currentFileName);
   const currentPostIndex = posts.indexOf(currentPost);
 
