@@ -1,28 +1,11 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-06-23'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/design-patterns.png
-isFeatured: false
-seo:
-  metaDescription: 'Design Patterns: High-Level Solutions to Common Problems.'
-  metaTitle: 'Design Patterns: High-Level Solutions to Common Problems'
-  socialImage: /images/design-patterns.png
-  type: Seo
-slug: what-is-a-design-pattern
-styles:
-  self:
-    flexDirection: col
 title: 'Design Patterns: High-Level Solutions to Common Problems'
-type: PostLayout
-bottomSections:
-  - type: FeaturedPostsSection
+description: >-
+  Design patterns are reusable solutions to commonly occurring problems in
+  software design, providing templates for how to solve problems in various
+  contexts.
+date: '2023-06-23'
+---
     title:
       type: TitleBlock
       text: Design Patterns

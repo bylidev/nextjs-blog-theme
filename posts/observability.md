@@ -1,28 +1,10 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
+title: 'Unifying Log Management: A Guide to Ingesting, Storing, and Visualizing Logs from Various Applications'
+description: >-
+  A comprehensive guide to implementing unified log management systems using
+  modern tools to ingest, store, and visualize logs from various applications.
 date: '2023-07-11'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/log_data.webp
-isFeatured: false
-seo:
-  metaDescription: 'Unifying Log Management: A Guide to Ingesting, Storing, and Visualizing
-    Logs from Various Applications.'
-  metaTitle: 'Unifying Log Management: A Guide to Ingesting, Storing, and Visualizing
-    Logs from Various Applications'
-  socialImage: /images/log_data.webp
-  type: Seo
-slug: how-to-digest-data-with-loki-and-recover-it-with-graphana
-styles:
-  self:
-    flexDirection: col
-title: 'Unifying Log Management: A Guide to Ingesting, Storing, and Visualizing Logs
-  from Various Applications'
+---
 type: PostLayout
 ---
 

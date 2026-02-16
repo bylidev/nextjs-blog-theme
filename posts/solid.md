@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-06-03'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/construction.jpg
-isFeatured: false
-seo:
-  metaDescription: Unleashing the Power of SOLID Principles for Robust Code.
-  metaTitle: Unleashing the Power of SOLID Principles for Robust Code
-  socialImage: /images/construction.jpg
-  type: Seo
-slug: solid-principles
-styles:
-  self:
-    flexDirection: col
 title: Unleashing the Power of SOLID Principles for Robust Code
-type: PostLayout
+description: >-
+  SOLID principles are five design principles that help developers create more
+  maintainable, flexible, and scalable object-oriented software.
+date: '2023-06-03'
 ---
 
 ![SOLID Principles](/images/construction.jpg)

@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2024-04-17'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/sdk.webp
-isFeatured: false
-seo:
-  metaDescription: 'Avoiding Team Conflicts: Bridging API Definitions with SDKs.'
-  metaTitle: 'Avoiding Team Conflicts: Bridging API Definitions with SDKs'
-  socialImage: /images/sdk.webp
-  type: Seo
-slug: sdk
-styles:
-  self:
-    flexDirection: col
 title: 'Avoiding Team Conflicts: Bridging API Definitions with SDKs'
-type: PostLayout
+description: >-
+  Learn how to create effective SDKs that bridge API definitions and reduce team
+  conflicts by providing clear, consistent interfaces for API consumption.
+date: '2024-04-17'
 ---
 ![conflict](/images/cat-meme.jpg)
 

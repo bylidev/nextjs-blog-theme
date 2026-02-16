@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-09-02'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/anon.jpg
-isFeatured: false
-seo:
-  metaDescription: 'Building a SOCKS5 Proxy with Tor and Docker: A Step-by-Step Guide.'
-  metaTitle: 'Building a SOCKS5 Proxy with Tor and Docker: A Step-by-Step Guide'
-  socialImage: /images/anon.jpg
-  type: Seo
-slug: socks5-proxy
-styles:
-  self:
-    flexDirection: col
 title: 'Building a SOCKS5 Proxy with Tor and Docker: A Step-by-Step Guide'
-type: PostLayout
+description: >-
+  Learn how to build a SOCKS5 proxy using Tor and Docker for anonymous and secure
+  internet browsing. Complete step-by-step guide with configuration examples.
+date: '2023-09-02'
 ---
 
 ![SOLID Principles](/images/anon.jpg)

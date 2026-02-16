@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-06-25'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/abstract-factory.jpeg
-isFeatured: false
-seo:
-  metaDescription: 'Abstract Factory Pattern: Creating Family of Objects.'
-  metaTitle: 'Abstract Factory Pattern: Creating Family of Objects'
-  socialImage: /images/abstract-factory.jpeg
-  type: Seo
-slug: abstract-factory
-styles:
-  self:
-    flexDirection: col
 title: 'Abstract Factory Pattern: Creating Family of Objects'
-type: PostLayout
+description: >-
+  The Abstract Factory pattern provides an interface to create families of
+  related objects without specifying their concrete classes.
+date: '2023-06-25'
 ---
 
 The Abstract Factory pattern provides an interface to create families of related objects without specifying their concrete classes.

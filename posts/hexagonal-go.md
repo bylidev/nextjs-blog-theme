@@ -1,28 +1,11 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
+title: 'Diving Deep into Hexagonal Architecture with Go: Building Modular and Testable Systems'
+description: >-
+  Hexagonal architecture, also known as ports and adapters, is a design pattern
+  that promotes separation of concerns and makes applications more maintainable
+  and testable.
 date: '2023-07-09'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/go.png
-isFeatured: false
-seo:
-  metaDescription: 'Diving Deep into Hexagonal Architecture with Go: Building Modular
-    and Testable Systems.'
-  metaTitle: 'Diving Deep into Hexagonal Architecture with Go: Building Modular and
-    Testable Systems'
-  socialImage: /images/go.png
-  type: Seo
-slug: a-clean-architecture-journey
-styles:
-  self:
-    flexDirection: col
-title: 'Diving Deep into Hexagonal Architecture with Go: Building Modular and Testable
-  Systems'
+---
 type: PostLayout
 ---
 

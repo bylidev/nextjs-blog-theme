@@ -1,26 +1,10 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-06-27'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/prototype.jpg
-isFeatured: false
-seo:
-  metaDescription: 'Prototype Pattern: Creating New Objects via Cloning.'
-  metaTitle: 'Prototype Pattern: Creating New Objects via Cloning'
-  socialImage: /images/prototype.jpg
-  type: Seo
-slug: prototype-pattern
-styles:
-  self:
-    flexDirection: col
 title: 'Prototype Pattern: Creating New Objects via Cloning'
-type: PostLayout
+description: >-
+  The Prototype pattern is a creational design pattern that allows you to create
+  new objects by copying existing ones without making the code dependent on their
+  classes.
+date: '2023-06-27'
 ---
 
 The Prototype pattern is a creational design pattern that allows you to create new objects by copying existing ones.

@@ -1,26 +1,10 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2024-08-15'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/ioc.webp
-isFeatured: false
-seo:
-  metaDescription: Compiled IoC for JAVA.
-  metaTitle: Compiled IoC for JAVA
-  socialImage: /images/ioc.webp
-  type: Seo
-slug: dagger-ioc-for-java
-styles:
-  self:
-    flexDirection: col
 title: Compiled IoC for JAVA
-type: PostLayout
+description: >-
+  Exploring compile-time Inversion of Control (IoC) frameworks for Java,
+  which generate dependency injection code at compile time for better performance
+  and type safety.
+date: '2024-08-15'
 ---
 
 ![](/images/ioc.webp)

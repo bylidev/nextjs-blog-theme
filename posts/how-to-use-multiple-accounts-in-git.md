@@ -1,26 +1,10 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-07-07'
-featuredImage:
-  altText: Managing Multiple Git Accounts with SSH Keys
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/git.jpg
-isFeatured: true
-seo:
-  metaDescription: Learn how to efficiently manage multiple Git accounts (personal and work) using SSH keys and configuration files. Complete guide with examples and troubleshooting tips.
-  metaTitle: How to Use Multiple Git Accounts with SSH Keys | Complete Guide
-  socialImage: /images/git.jpg
-  type: Seo
-slug: how-to-use-multiple-accounts-in-git
-styles:
-  self:
-    flexDirection: col
 title: How to Use Multiple Git Accounts with SSH Keys
-type: PostLayout
+description: >-
+  Learn how to efficiently manage multiple Git accounts (personal and work) using
+  SSH keys and configuration files. Complete guide with examples and troubleshooting
+  tips.
+date: '2023-07-07'
 ---
 
 ## Introduction

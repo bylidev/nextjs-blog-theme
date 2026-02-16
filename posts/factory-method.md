@@ -1,27 +1,10 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-06-24'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/factory.jpeg
-isFeatured: false
-seo:
-  metaDescription: 'Factory Method Pattern: Creating Objects Without Knowing Exact
-    Types.'
-  metaTitle: 'Factory Method Pattern: Creating Objects Without Knowing Exact Types'
-  socialImage: /images/factory.jpeg
-  type: Seo
-slug: factory-method
-styles:
-  self:
-    flexDirection: col
 title: 'Factory Method Pattern: Creating Objects Without Knowing Exact Types'
-type: PostLayout
+description: >-
+  The Factory Method pattern provides an interface for creating objects in a
+  superclass, but allows subclasses to alter the type of objects that will be
+  created.
+date: '2023-06-24'
 ---
 
 The Factory Method pattern is a creational design pattern that provides a way to create objects without knowing their exact dependencies and types in advance. Instead of using the "new" operator directly, this pattern encapsulates the object creation process in a method called the factory method.

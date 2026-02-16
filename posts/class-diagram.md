@@ -1,28 +1,11 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
+title: 'Understanding Class Diagrams: Visualizing Relationships and Structure in Object-Oriented Systems'
+description: >-
+  Class diagrams are a type of UML diagram that visualize the structure of a
+  system by showing its classes, attributes, methods, and relationships between
+  objects.
 date: '2023-06-01'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/class-diagram.webp
-isFeatured: false
-seo:
-  metaDescription: 'Understanding Class Diagrams: Visualizing Relationships and Structure
-    in Object-Oriented Systems.'
-  metaTitle: 'Understanding Class Diagrams: Visualizing Relationships and Structure
-    in Object-Oriented Systems'
-  socialImage: /images/class-diagram.webp
-  type: Seo
-slug: class-diagram
-styles:
-  self:
-    flexDirection: col
-title: 'Understanding Class Diagrams: Visualizing Relationships and Structure in Object-Oriented
-  Systems'
+---
 type: PostLayout
 ---
 

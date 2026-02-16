@@ -1,26 +1,10 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
+
+title: 'Proxy Pattern: Controlling Object Access'
+description: >-
+  The Proxy pattern provides a surrogate or placeholder for another object to
+  control access to it.
 date: '2023-07-06'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/proxy.jpg
-isFeatured: false
-seo:
-  metaDescription: 'Proxy Pattern : Controlling Object Access.'
-  metaTitle: 'Proxy Pattern : Controlling Object Access'
-  socialImage: /images/proxy.jpg
-  type: Seo
-slug: proxy
-styles:
-  self:
-    flexDirection: col
-title: 'Proxy Pattern : Controlling Object Access'
-type: PostLayout
 ---
 
 ## Motivation

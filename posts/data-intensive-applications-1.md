@@ -1,28 +1,10 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
+title: 'Designing Data-Intensive Applications 1: Reliability, Scalability & Maintainability'
+description: >-
+  Exploring the fundamental principles of designing data-intensive applications,
+  focusing on reliability, scalability, and maintainability as core pillars.
 date: '2024-04-16'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/data-intensive-applications.png
-isFeatured: false
-seo:
-  metaDescription: 'Designing Data-Intensive Applications 1 : Reliability, Scalability
-    & Maintainability.'
-  metaTitle: 'Designing Data-Intensive Applications 1 : Reliability, Scalability &
-    Maintainability'
-  socialImage: /images/data-intensive-applications.png
-  type: Seo
-slug: data-intensive-applications-1
-styles:
-  self:
-    flexDirection: col
-title: 'Designing Data-Intensive Applications 1 : Reliability, Scalability & Maintainability'
-type: PostLayout
+---
 ---
 
 ## Reliability, Scalability & Maintenability

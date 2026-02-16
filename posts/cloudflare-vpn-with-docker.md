@@ -1,28 +1,10 @@
 ---
-type: PostLayout
 title: Hide Your Server's IP While Exposing Your Service
+description: >-
+  Learn how to hide your server's IP address while exposing your service using
+  Cloudflare VPN and Docker for enhanced security and privacy.
 date: '2022-10-10'
-excerpt: How to run cloudflare vpn with docker?
-featuredImage:
-  type: ImageBlock
-  url: /images/Screenshot 2025-03-30 210853.png
-  altText: Thumbnail
-  elementId: ''
-  styles:
-    self:
-      padding:
-        - pt-0
-        - pl-0
-        - pb-0
-        - pr-0
-bottomSections:
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
+---
           - pt-3
           - pl-3
           - pb-3

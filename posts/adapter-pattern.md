@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-06-29'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/adapter.jpg
-isFeatured: false
-seo:
-  metaDescription: 'Adapter Pattern: Bridging Incompatible Interfaces.'
-  metaTitle: 'Adapter Pattern: Bridging Incompatible Interfaces'
-  socialImage: /images/adapter.jpg
-  type: Seo
-slug: adapter
-styles:
-  self:
-    flexDirection: col
 title: 'Adapter Pattern: Bridging Incompatible Interfaces'
-type: PostLayout
+description: >-
+  The Adapter pattern is a structural design pattern that enables objects with
+  incompatible interfaces to collaborate seamlessly.
+date: '2023-06-29'
 ---
 
 The Adapter pattern is a structural design pattern that enables objects with incompatible interfaces to collaborate seamlessly.

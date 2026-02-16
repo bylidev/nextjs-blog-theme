@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-07-01'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/composite.jpg
-isFeatured: false
-seo:
-  metaDescription: 'Composite Pattern: Building Tree-like Structures.'
-  metaTitle: 'Composite Pattern: Building Tree-like Structures'
-  socialImage: /images/composite.jpg
-  type: Seo
-slug: composite-pattern
-styles:
-  self:
-    flexDirection: col
 title: 'Composite Pattern: Building Tree-like Structures'
-type: PostLayout
+description: >-
+  The Composite pattern is a structural design pattern that lets you compose
+  objects into tree structures to represent part-whole hierarchies.
+date: '2023-07-01'
 ---
 
 ## Composite Pattern: Building Tree-like Structures

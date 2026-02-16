@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-07-03'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/evil_kermit.png
-isFeatured: false
-seo:
-  metaDescription: 'Facade Pattern: Simplifying Complex Systems.'
-  metaTitle: 'Facade Pattern: Simplifying Complex Systems'
-  socialImage: /images/evil_kermit.png
-  type: Seo
-slug: facade
-styles:
-  self:
-    flexDirection: col
 title: 'Facade Pattern: Simplifying Complex Systems'
-type: PostLayout
+description: >-
+  The Facade pattern provides a simplified interface to a complex subsystem,
+  making it easier to use and understand.
+date: '2023-07-03'
 ---
 
 The Facade design pattern is a structural pattern that offers a simplified interface to a complex system, library, or framework. It acts as a unified interface, concealing the inner workings of a cumbersome or intricate subsystem, which we might prefer to keep hidden from the outside world.

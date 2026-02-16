@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
+title: Resilient CronJob-based Webhook in K8S for Distributed Services
+description: >-
+  Learn how to implement resilient CronJob-based webhooks in Kubernetes for
+  distributed services, ensuring reliable scheduled task execution.
 date: '2023-07-10'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/time.jpg
-isFeatured: false
-seo:
-  metaDescription: Resilient CronJob-based Webhook in K8S for Distributed services.
-  metaTitle: Resilient CronJob-based Webhook in K8S for Distributed services
-  socialImage: /images/time.jpg
-  type: Seo
-slug: k8s-cronjob
-styles:
-  self:
-    flexDirection: col
-title: Resilient CronJob-based Webhook in K8S for Distributed services
-type: PostLayout
 ---
 
 ## Requirements

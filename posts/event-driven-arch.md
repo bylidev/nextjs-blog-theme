@@ -1,28 +1,11 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2024-06-11'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/event_bus.png
-isFeatured: false
-seo:
-  metaDescription: 'Exploring Events: Use Cases, Event Types, Delivery Semantics,
-    and Broker Technologies.'
-  metaTitle: 'Exploring Events: Use Cases, Event Types, Delivery Semantics, and Broker
-    Technologies'
-  socialImage: /images/event_bus.png
-  type: Seo
-slug: events
-styles:
-  self:
-    flexDirection: col
 title: 'Exploring Events: Use Cases, Event Types, Delivery Semantics, and Broker Technologies'
-type: PostLayout
+description: >-
+  A comprehensive exploration of event-driven architecture, covering various use
+  cases, event types, delivery semantics, and the broker technologies that power
+  modern event-driven systems.
+date: '2024-06-11'
+---
 ---
 
 ![conflict](/images/event.png)

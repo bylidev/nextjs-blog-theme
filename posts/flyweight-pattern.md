@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-07-04'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/flyweight.webp
-isFeatured: false
-seo:
-  metaDescription: 'Flyweight Pattern: Optimizing Memory Usage and Performance.'
-  metaTitle: 'Flyweight Pattern: Optimizing Memory Usage and Performance'
-  socialImage: /images/flyweight.webp
-  type: Seo
-slug: flyweight
-styles:
-  self:
-    flexDirection: col
 title: 'Flyweight Pattern: Optimizing Memory Usage and Performance'
-type: PostLayout
+description: >-
+  The Flyweight pattern is a structural design pattern that minimizes memory
+  usage by sharing common data among multiple objects.
+date: '2023-07-04'
 ---
 
 The Flyweight design pattern is a structural pattern that aims to reduce memory usage and improve performance by efficiently sharing objects used in large quantities. It is particularly useful when an application needs to create a large number of similar objects with some shared intrinsic state.

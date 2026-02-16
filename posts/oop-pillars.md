@@ -1,28 +1,11 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
+title: 'Exploring the Core Principles of Object-Oriented Programming: The Pillars of OOP'
+description: >-
+  Object-oriented programming is built on four fundamental pillars: encapsulation,
+  abstraction, inheritance, and polymorphism, which provide the foundation for
+  building robust software systems.
 date: '2023-06-02'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/pillars.jpeg
-isFeatured: false
-seo:
-  metaDescription: 'Exploring the Core Principles of Object-Oriented Programming:
-    The Pillars of OOP.'
-  metaTitle: 'Exploring the Core Principles of Object-Oriented Programming: The Pillars
-    of OOP'
-  socialImage: /images/pillars.jpeg
-  type: Seo
-slug: oop-pilars
-styles:
-  self:
-    flexDirection: col
-title: 'Exploring the Core Principles of Object-Oriented Programming: The Pillars
-  of OOP'
+---
 type: PostLayout
 ---
 

@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-06-28'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/singleton.jpeg
-isFeatured: false
-seo:
-  metaDescription: 'Singleton Pattern: Ensuring a Single Instance.'
-  metaTitle: 'Singleton Pattern: Ensuring a Single Instance'
-  socialImage: /images/singleton.jpeg
-  type: Seo
-slug: singleton
-styles:
-  self:
-    flexDirection: col
 title: 'Singleton Pattern: Ensuring a Single Instance'
-type: PostLayout
+description: >-
+  The Singleton pattern ensures that only one object of a class exists and
+  provides a global point of access to that instance.
+date: '2023-06-28'
 ---
 
 The Singleton pattern is based on the idea of delivering a single instance of a class. It ensures that only one object of a class exists and provides a global point of access to that instance.

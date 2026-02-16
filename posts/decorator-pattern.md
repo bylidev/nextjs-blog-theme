@@ -1,26 +1,10 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-07-02'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/decorator-pattern.jpg
-isFeatured: false
-seo:
-  metaDescription: 'Decorator Pattern: Adding Flexible Behaviors to Objects.'
-  metaTitle: 'Decorator Pattern: Adding Flexible Behaviors to Objects'
-  socialImage: /images/decorator-pattern.jpg
-  type: Seo
-slug: decorator-pattern
-styles:
-  self:
-    flexDirection: col
 title: 'Decorator Pattern: Adding Flexible Behaviors to Objects'
-type: PostLayout
+description: >-
+  The Decorator pattern is a structural design pattern that allows you to attach
+  new behaviors to objects by placing them inside wrapper objects that contain
+  these behaviors.
+date: '2023-07-02'
 ---
 
 The Decorator pattern allows you to dynamically add extra behaviors to objects at runtime without altering the existing code that uses these objects. It provides a flexible and maintainable way to extend the functionality of objects without resorting to excessive inheritance.

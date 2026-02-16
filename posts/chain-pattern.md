@@ -1,26 +1,10 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
+title: 'Chain of Responsibility Pattern'
+description: >-
+  The Chain of Responsibility pattern allows passing requests along a chain of
+  handlers, where each handler decides either to process the request or to pass
+  it to the next handler in the chain.
 date: '2023-07-03'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/evil_kermit.png
-isFeatured: false
-seo:
-  metaDescription: 'Chain of responsability pattern'
-  metaTitle: 'Chain of responsability pattern'
-  socialImage: /images/evil_kermit.png
-  type: Seo
-slug: facade
-styles:
-  self:
-    flexDirection: col
-title: 'Chain of responsability pattern'
-type: PostLayout
 ---
 
 # Chain of responsability pattern

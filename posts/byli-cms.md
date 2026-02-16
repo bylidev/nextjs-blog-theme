@@ -1,27 +1,10 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
+title: Mnemosine Wiki - Deploy Your Wiki with Markdowns Without Servers!
+description: >-
+  Mnemosine Wiki is a powerful JAMstack wiki built with Angular that is
+  serverless and API-less, allowing you to deploy your wiki using only markdown
+  files.
 date: '2024-07-20'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/caffee.gif
-isFeatured: false
-seo:
-  metaDescription: Mnemosine Wiki - Deploy your wiki with markdowns without servers
-    !.
-  metaTitle: Mnemosine Wiki - Deploy your wiki with markdowns without servers !
-  socialImage: /images/caffee.gif
-  type: Seo
-slug: mnemosine-wiki
-styles:
-  self:
-    flexDirection: col
-title: Mnemosine Wiki - Deploy your wiki with markdowns without servers !
-type: PostLayout
 ---
 
 ## The Most Powerful JMstack WIKI Made with Angular is Serverless and API-less! 💪

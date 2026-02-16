@@ -1,26 +1,11 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-06-26'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/builder.jpg
-isFeatured: false
-seo:
-  metaDescription: 'Builder Pattern: Constructing Complex Objects Step by Step.'
-  metaTitle: 'Builder Pattern: Constructing Complex Objects Step by Step'
-  socialImage: /images/builder.jpg
-  type: Seo
-slug: builder-pattern
-styles:
-  self:
-    flexDirection: col
 title: 'Builder Pattern: Constructing Complex Objects Step by Step'
-type: PostLayout
+description: >-
+  The Builder pattern is a creational design pattern that facilitates the
+  construction of complex objects in a step-by-step manner. It also helps
+  eliminate the need for telescoping constructors, making the object creation
+  process more flexible and manageable.
+date: '2023-06-26'
 ---
 
 The Builder pattern is a creational design pattern that facilitates the construction of complex objects in a step-by-step manner. It also helps eliminate the need for telescoping constructors, making the object creation process more flexible and manageable.

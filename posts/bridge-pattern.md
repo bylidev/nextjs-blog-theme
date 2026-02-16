@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-06-30'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/bridge.jpg
-isFeatured: false
-seo:
-  metaDescription: 'Bridge Pattern: Building Flexible and Efficient Abstractions.'
-  metaTitle: 'Bridge Pattern: Building Flexible and Efficient Abstractions'
-  socialImage: /images/bridge.jpg
-  type: Seo
-slug: bridge-pattern
-styles:
-  self:
-    flexDirection: col
 title: 'Bridge Pattern: Building Flexible and Efficient Abstractions'
-type: PostLayout
+description: >-
+  The Bridge pattern is a structural design pattern that separates abstraction
+  from implementation, allowing them to vary independently.
+date: '2023-06-30'
 ---
 
 In the world of structural patterns, the Bridge pattern offers an elegant solution for constructing larger and more flexible structures while maintaining efficiency.

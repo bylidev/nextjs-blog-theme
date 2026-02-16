@@ -1,26 +1,9 @@
 ---
-author: content/data/nacho.json
-colors: bg-light-fg-dark
-date: '2023-07-08'
-featuredImage:
-  altText: Thumbnail
-  styles:
-    self:
-      borderRadius: medium
-  type: ImageBlock
-  url: /images/telegram.jpg
-isFeatured: false
-seo:
-  metaDescription: A Guide to Sending Telegram Messages.
-  metaTitle: A Guide to Sending Telegram Messages
-  socialImage: /images/telegram.jpg
-  type: Seo
-slug: sendingjsonCopy code -telgram-messages
-styles:
-  self:
-    flexDirection: col
 title: A Guide to Sending Telegram Messages
-type: PostLayout
+description: >-
+  A comprehensive guide to programmatically sending messages through Telegram's
+  Bot API, including setup and implementation examples.
+date: '2023-07-08'
 ---
 
 1.  Start a conversation with @BotFather.
